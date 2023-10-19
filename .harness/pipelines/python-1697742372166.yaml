@@ -8,7 +8,7 @@ pipeline:
       codebase:
         build: <+input>
         connectorRef: account.Github_OAuth_1697742103567
-        repoName: python
+        repoName: jbla9028/python
   stages:
     - stage:
         identifier: build
